@@ -1,7 +1,7 @@
 {
   "name": "shcmd.c",
-  "version": "0.0.1",
-  "repo": "disabruno/shcmd.c",
+  "version": "0.0.2",
+  "repo": "diasbruno/shcmd.c",
   "description": "easy shell command.",
   "keywords": ["command", "shell", "execute"],
   "license": "MIT",
